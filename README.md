@@ -204,7 +204,7 @@ npm run dev
 
 * [x] Initialize GitHub repository
 * [x] Create project structure
-* [ ] Perform exploratory data analysis
+* [x] Perform exploratory data analysis
 * [ ] Data preprocessing
 * [ ] Irrigation suitability model
 * [ ] Drinking water safety model
